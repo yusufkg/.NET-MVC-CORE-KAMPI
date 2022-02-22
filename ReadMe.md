@@ -1,1 +1,1 @@
-deneme
+.NET-MVC-CORE-KAMPI
