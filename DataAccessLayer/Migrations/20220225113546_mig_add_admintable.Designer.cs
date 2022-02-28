@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccessLayer.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20220222105905_mig_add_admintable")]
+    [Migration("20220225113546_mig_add_admintable")]
     partial class mig_add_admintable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
